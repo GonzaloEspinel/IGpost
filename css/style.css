@@ -2,6 +2,11 @@
   border: 1px dashed red;
   min-height: 10px;
 } */
+
+html {
+  margin: auto;
+  background: black;
+}
 .ig_post {
   width: 600px;
   border: 1px solid #8080803f;
