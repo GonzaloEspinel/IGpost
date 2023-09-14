@@ -4,8 +4,14 @@
 } */
 
 html {
+    background: #fcfcfc;
+    margin: auto;
+    
+}
+body {
+  width: 605px;
+  height: auto;
   margin: auto;
-  background: black;
 }
 .ig_post {
   width: 600px;
