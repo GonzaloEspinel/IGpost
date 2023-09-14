@@ -23,6 +23,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 5px;
 }
 header div:first-child {
   display: flex;
@@ -51,6 +52,7 @@ footer {
   flex-direction: column;
   position: relative;
   text-align: justify;
+  padding: 5px;
 }
 .icons {
   display: flex;
